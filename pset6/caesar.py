@@ -1,8 +1,8 @@
-import cs50
+ import cs50
 import sys
 
 def main():
-    if len(sys.argv) != 2:
+    if len(sy   s.argv) != 2:
         print("You should provide cmd line arguments!")
         exit(1)
     
